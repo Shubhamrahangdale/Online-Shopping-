@@ -1,0 +1,39 @@
+
+.profile{
+    padding: 50px 0;
+    background: radial-gradient(#fff,#cc66ff);
+ }
+ *:focus{
+     outline: none;
+ }
+.box{
+    box-sizing: border-box;
+    width: 360px;
+    height: 600px;
+    border: 2px solid ;
+    box-shadow:-3px -3px 7px #ffffff73,
+                   3px 3px 5px rgba(94,104,121,0.288);
+    border-radius:5px;
+    background: #fff;
+    margin-top: 50px;
+    overflow:hidden;
+
+}
+  img{
+    box-sizing: border-box;
+    width: 149px;
+    height: 149px;
+    border-radius: 50%;
+    margin: 0;
+    border: 5px solid ;
+    padding: 3px;
+    /* background-color: black; */
+}
+/* input [type=date]{
+    box-sizing: border-box;
+    width: 6660px;
+    height: 600px;
+    border-radius: 2px solid;
+    margin-top: 50px;
+    overflow: hidden;
+} */
